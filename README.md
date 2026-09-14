@@ -1,5 +1,5 @@
 # ORSO Navegador
-
+#### Descarga el ejecutable desde (https://drive.google.com/file/d/10WKIS1qrmlUEsDkEqJYuuYVsZrcUl_Yt/view?usp=sharing)
 Navegador web nativo de escritorio construido con **Electron y JavaScript puro** (sin frameworks de UI), con **Tor integrado** para navegación anónima.
 
 El resultado final es un **único `.exe` portátil** que incluye el navegador **y** Tor: no requiere instalar nada más.
